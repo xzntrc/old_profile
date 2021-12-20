@@ -6,7 +6,7 @@
   Name: Eccentri
   Favorite Language: Python
   Projects: None so far
-  OS: ArcoLinux  
+  OS: ArchLinux  
   Uptime: 14 Years
   ```
 
