@@ -7,7 +7,7 @@
   Eccentrici@GitHub
   -----------------
   Name: Eccentri
-  Favorite Languages: Python, C, ASM
+  Favorite Language: Python
   Projects: None so far
   OS: ArcoLinux  
   Uptime: 14 Years
