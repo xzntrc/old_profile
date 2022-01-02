@@ -5,7 +5,7 @@
   -----------------
   Name: Eccentri
   Favorite Language: Python
-  Projects: None so far
+  Projects: https://github.com/Eccentrici/Esh/
   OS: ArchLinux  
   Uptime: 14 Years
   ```
