@@ -8,6 +8,12 @@
   OS: ArchLinux  
   Uptime: 15 Years
   ```
+<details open>
+<summary> My Statistics</summary>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xzntrc)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 </div>
+
+
 
 
