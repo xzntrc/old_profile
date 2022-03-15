@@ -8,10 +8,6 @@
   OS: ArchLinux  
   Uptime: 15 Years
   ```
-<details open>
-<summary> My Statistics</summary>
-
-</details>
 </div>
 
 
