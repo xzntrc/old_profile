@@ -3,14 +3,11 @@
   ```css
   Eccentrici@GitHub
   -----------------
-  Name: Eccentri
-  Favorite Language: Python
-  Projects: https://github.com/Eccentrici/Esh/
+  Name: Austin
+  Favorite Language: ["Python", "Java"]
   OS: ArchLinux  
-  Uptime: 14 Years
+  Uptime: 15 Years
   ```
-
-
 </div>
 
 
